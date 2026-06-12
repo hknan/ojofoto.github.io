@@ -1,1 +1,1 @@
-# ojofoto.github.io
+# github.io
